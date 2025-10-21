@@ -1,0 +1,1263 @@
+"Electricity statistics by Country/area, Technology, Data Type, Grid connection and Year"
+
+"Country/area","Technology","Data Type","Grid connection","Year",Electricity statistics
+"Canada","Total renewable","Electricity Installed Capacity (MW)","All","2015",95160.00
+"Canada","Total renewable","Electricity Installed Capacity (MW)","All","2016",96997.50
+"Canada","Total renewable","Electricity Installed Capacity (MW)","All","2017",98149.00
+"Canada","Total renewable","Electricity Installed Capacity (MW)","All","2018",99591.50
+"Canada","Total renewable","Electricity Installed Capacity (MW)","All","2019",99987.50
+"Canada","Total renewable","Electricity Installed Capacity (MW)","All","2020",100390.00
+"Canada","Total renewable","Electricity Installed Capacity (MW)","All","2021",103330.00
+"Canada","Total renewable","Electricity Installed Capacity (MW)","All","2022",105781.70
+"Canada","Total renewable","Electricity Installed Capacity (MW)","All","2023",107672.20
+"Canada","Total renewable","Electricity Installed Capacity (MW)","All","2024",109504.50
+"Canada","Total renewable","Electricity Installed Capacity (MW)","On-grid","2015",95160.00
+"Canada","Total renewable","Electricity Installed Capacity (MW)","On-grid","2016",96997.50
+"Canada","Total renewable","Electricity Installed Capacity (MW)","On-grid","2017",98149.00
+"Canada","Total renewable","Electricity Installed Capacity (MW)","On-grid","2018",99591.50
+"Canada","Total renewable","Electricity Installed Capacity (MW)","On-grid","2019",99987.50
+"Canada","Total renewable","Electricity Installed Capacity (MW)","On-grid","2020",100390.00
+"Canada","Total renewable","Electricity Installed Capacity (MW)","On-grid","2021",103330.00
+"Canada","Total renewable","Electricity Installed Capacity (MW)","On-grid","2022",105781.70
+"Canada","Total renewable","Electricity Installed Capacity (MW)","On-grid","2023",107672.20
+"Canada","Total renewable","Electricity Installed Capacity (MW)","On-grid","2024",109504.50
+"Canada","Total renewable","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Total renewable","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Total renewable","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Total renewable","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Total renewable","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Total renewable","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Total renewable","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Total renewable","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Total renewable","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Total renewable","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Total renewable","Electricity Generation (GWh)","All","2015",421777.00
+"Canada","Total renewable","Electricity Generation (GWh)","All","2016",431808.00
+"Canada","Total renewable","Electricity Generation (GWh)","All","2017",441401.00
+"Canada","Total renewable","Electricity Generation (GWh)","All","2018",434498.00
+"Canada","Total renewable","Electricity Generation (GWh)","All","2019",429785.00
+"Canada","Total renewable","Electricity Generation (GWh)","All","2020",437045.00
+"Canada","Total renewable","Electricity Generation (GWh)","All","2021",436043.00
+"Canada","Total renewable","Electricity Generation (GWh)","All","2022",453143.00
+"Canada","Total renewable","Electricity Generation (GWh)","All","2023",418837.00
+"Canada","Total renewable","Electricity Generation (GWh)","All","2024",-
+"Canada","Total renewable","Electricity Generation (GWh)","On-grid","2015",421777.00
+"Canada","Total renewable","Electricity Generation (GWh)","On-grid","2016",431808.00
+"Canada","Total renewable","Electricity Generation (GWh)","On-grid","2017",441401.00
+"Canada","Total renewable","Electricity Generation (GWh)","On-grid","2018",434498.00
+"Canada","Total renewable","Electricity Generation (GWh)","On-grid","2019",429785.00
+"Canada","Total renewable","Electricity Generation (GWh)","On-grid","2020",437045.00
+"Canada","Total renewable","Electricity Generation (GWh)","On-grid","2021",436043.00
+"Canada","Total renewable","Electricity Generation (GWh)","On-grid","2022",453143.00
+"Canada","Total renewable","Electricity Generation (GWh)","On-grid","2023",418837.00
+"Canada","Total renewable","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Total renewable","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Total renewable","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Total renewable","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Total renewable","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Total renewable","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Total renewable","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Total renewable","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Total renewable","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Total renewable","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Total renewable","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","All","2015",2141.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","All","2016",2265.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","All","2017",2493.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","All","2018",2631.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","All","2019",2828.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","All","2020",3068.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","All","2021",3854.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","All","2022",4323.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","All","2023",5328.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","All","2024",5773.40
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2015",2141.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2016",2265.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",2493.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",2631.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",2828.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",3068.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",3854.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2022",4323.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2023",5328.00
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2024",5773.40
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Solar photovoltaic","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","All","2015",2841.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","All","2016",3005.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","All","2017",3308.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","All","2018",3491.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","All","2019",3752.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","All","2020",4072.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","All","2021",5115.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","All","2022",5737.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","All","2023",7071.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","All","2024",-
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2015",2841.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2016",3005.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",3308.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",3491.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",3752.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",4072.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",5115.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2022",5737.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2023",7071.00
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Solar photovoltaic","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","All","2015",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","All","2016",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","All","2017",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","All","2018",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","All","2019",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","All","2020",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","All","2021",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","All","2022",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","All","2023",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","All","2024",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Solar thermal energy","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","All","2015",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","All","2016",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","All","2017",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","All","2018",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","All","2019",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","All","2020",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","All","2021",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","All","2022",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","All","2023",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","All","2024",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","On-grid","2015",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","On-grid","2016",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","On-grid","2022",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","On-grid","2023",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Solar thermal energy","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","All","2015",11214.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","All","2016",11973.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","All","2017",12250.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","All","2018",12816.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","All","2019",13220.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","All","2020",13532.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","All","2021",13878.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","All","2022",15237.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","All","2023",16137.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","All","2024",17523.90
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",11214.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",11973.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",12250.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",12816.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",13220.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",13532.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",13878.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",15237.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",16137.00
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",17523.90
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Onshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Onshore wind energy","Electricity Generation (GWh)","All","2015",26964.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","All","2016",30930.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","All","2017",31511.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","All","2018",33468.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","All","2019",32873.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","All","2020",35761.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","All","2021",37293.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","All","2022",39474.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","All","2023",40506.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","All","2024",-
+"Canada","Onshore wind energy","Electricity Generation (GWh)","On-grid","2015",26964.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","On-grid","2016",30930.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",31511.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",33468.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",32873.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",35761.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",37293.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","On-grid","2022",39474.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","On-grid","2023",40506.00
+"Canada","Onshore wind energy","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Onshore wind energy","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Onshore wind energy","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Onshore wind energy","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Onshore wind energy","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Onshore wind energy","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Onshore wind energy","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Onshore wind energy","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Onshore wind energy","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Onshore wind energy","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Onshore wind energy","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","All","2015",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","All","2016",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","All","2017",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","All","2018",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","All","2019",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","All","2020",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","All","2021",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","All","2022",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","All","2023",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","All","2024",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Offshore wind energy","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","All","2015",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","All","2016",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","All","2017",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","All","2018",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","All","2019",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","All","2020",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","All","2021",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","All","2022",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","All","2023",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","All","2024",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","On-grid","2015",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","On-grid","2016",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","On-grid","2022",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","On-grid","2023",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Offshore wind energy","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","All","2015",79231.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","All","2016",80130.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","All","2017",80657.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","All","2018",81396.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","All","2019",81396.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","All","2020",81209.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","All","2021",82893.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","All","2022",83498.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","All","2023",83498.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","All","2024",83498.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2015",79231.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2016",80130.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2017",80657.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2018",81396.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2019",81396.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2020",81209.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2021",82893.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2022",83498.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2023",83498.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2024",83498.00
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Renewable hydropower","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Renewable hydropower","Electricity Generation (GWh)","All","2015",382155.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","All","2016",385394.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","All","2017",394548.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","All","2018",385856.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","All","2019",381732.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","All","2020",386506.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","All","2021",382391.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","All","2022",397686.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","All","2023",360699.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","All","2024",-
+"Canada","Renewable hydropower","Electricity Generation (GWh)","On-grid","2015",382155.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","On-grid","2016",385394.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","On-grid","2017",394548.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","On-grid","2018",385856.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","On-grid","2019",381732.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","On-grid","2020",386506.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","On-grid","2021",382391.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","On-grid","2022",397686.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","On-grid","2023",360699.00
+"Canada","Renewable hydropower","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Renewable hydropower","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Renewable hydropower","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Renewable hydropower","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Renewable hydropower","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Renewable hydropower","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Renewable hydropower","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Renewable hydropower","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Renewable hydropower","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Renewable hydropower","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Renewable hydropower","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","All","2015",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","All","2016",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","All","2017",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","All","2018",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","All","2019",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","All","2020",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","All","2021",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","All","2022",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","All","2023",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","All","2024",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Mixed Hydro Plants","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","All","2015",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","All","2016",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","All","2017",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","All","2018",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","All","2019",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","All","2020",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","All","2021",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","All","2022",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","All","2023",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","All","2024",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","On-grid","2015",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","On-grid","2016",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","On-grid","2017",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","On-grid","2018",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","On-grid","2019",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","On-grid","2020",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","On-grid","2021",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","On-grid","2022",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","On-grid","2023",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Mixed Hydro Plants","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Marine energy","Electricity Installed Capacity (MW)","All","2015",20.00
+"Canada","Marine energy","Electricity Installed Capacity (MW)","All","2016",20.00
+"Canada","Marine energy","Electricity Installed Capacity (MW)","All","2017",20.00
+"Canada","Marine energy","Electricity Installed Capacity (MW)","All","2018",20.00
+"Canada","Marine energy","Electricity Installed Capacity (MW)","All","2019",20.00
+"Canada","Marine energy","Electricity Installed Capacity (MW)","All","2020",0.50
+"Canada","Marine energy","Electricity Installed Capacity (MW)","All","2021",0.50
+"Canada","Marine energy","Electricity Installed Capacity (MW)","All","2022",1.20
+"Canada","Marine energy","Electricity Installed Capacity (MW)","All","2023",1.20
+"Canada","Marine energy","Electricity Installed Capacity (MW)","All","2024",1.20
+"Canada","Marine energy","Electricity Installed Capacity (MW)","On-grid","2015",20.00
+"Canada","Marine energy","Electricity Installed Capacity (MW)","On-grid","2016",20.00
+"Canada","Marine energy","Electricity Installed Capacity (MW)","On-grid","2017",20.00
+"Canada","Marine energy","Electricity Installed Capacity (MW)","On-grid","2018",20.00
+"Canada","Marine energy","Electricity Installed Capacity (MW)","On-grid","2019",20.00
+"Canada","Marine energy","Electricity Installed Capacity (MW)","On-grid","2020",0.50
+"Canada","Marine energy","Electricity Installed Capacity (MW)","On-grid","2021",0.50
+"Canada","Marine energy","Electricity Installed Capacity (MW)","On-grid","2022",1.20
+"Canada","Marine energy","Electricity Installed Capacity (MW)","On-grid","2023",1.20
+"Canada","Marine energy","Electricity Installed Capacity (MW)","On-grid","2024",1.20
+"Canada","Marine energy","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Marine energy","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Marine energy","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Marine energy","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Marine energy","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Marine energy","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Marine energy","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Marine energy","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Marine energy","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Marine energy","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Marine energy","Electricity Generation (GWh)","All","2015",13.00
+"Canada","Marine energy","Electricity Generation (GWh)","All","2016",19.00
+"Canada","Marine energy","Electricity Generation (GWh)","All","2017",6.00
+"Canada","Marine energy","Electricity Generation (GWh)","All","2018",20.00
+"Canada","Marine energy","Electricity Generation (GWh)","All","2019",1.00
+"Canada","Marine energy","Electricity Generation (GWh)","All","2020",1.00
+"Canada","Marine energy","Electricity Generation (GWh)","All","2021",1.00
+"Canada","Marine energy","Electricity Generation (GWh)","All","2022",1.00
+"Canada","Marine energy","Electricity Generation (GWh)","All","2023",1.00
+"Canada","Marine energy","Electricity Generation (GWh)","All","2024",-
+"Canada","Marine energy","Electricity Generation (GWh)","On-grid","2015",13.00
+"Canada","Marine energy","Electricity Generation (GWh)","On-grid","2016",19.00
+"Canada","Marine energy","Electricity Generation (GWh)","On-grid","2017",6.00
+"Canada","Marine energy","Electricity Generation (GWh)","On-grid","2018",20.00
+"Canada","Marine energy","Electricity Generation (GWh)","On-grid","2019",1.00
+"Canada","Marine energy","Electricity Generation (GWh)","On-grid","2020",1.00
+"Canada","Marine energy","Electricity Generation (GWh)","On-grid","2021",1.00
+"Canada","Marine energy","Electricity Generation (GWh)","On-grid","2022",1.00
+"Canada","Marine energy","Electricity Generation (GWh)","On-grid","2023",1.00
+"Canada","Marine energy","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Marine energy","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Marine energy","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Marine energy","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Marine energy","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Marine energy","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Marine energy","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Marine energy","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Marine energy","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Marine energy","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Marine energy","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","All","2015",2318.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","All","2016",2385.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","All","2017",2465.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","All","2018",2477.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","All","2019",2233.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","All","2020",2279.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","All","2021",2298.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","All","2022",2318.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","All","2023",2318.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","All","2024",2318.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","On-grid","2015",2318.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","On-grid","2016",2385.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","On-grid","2017",2465.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","On-grid","2018",2477.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","On-grid","2019",2233.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","On-grid","2020",2279.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","On-grid","2021",2298.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","On-grid","2022",2318.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","On-grid","2023",2318.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","On-grid","2024",2318.00
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Solid biofuels","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Solid biofuels","Electricity Generation (GWh)","All","2015",8095.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","All","2016",10847.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","All","2017",10377.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","All","2018",10068.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","All","2019",9863.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","All","2020",9142.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","All","2021",9132.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","All","2022",8145.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","All","2023",8463.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","All","2024",-
+"Canada","Solid biofuels","Electricity Generation (GWh)","On-grid","2015",8095.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","On-grid","2016",10847.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","On-grid","2017",10377.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","On-grid","2018",10068.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","On-grid","2019",9863.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","On-grid","2020",9142.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","On-grid","2021",9132.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","On-grid","2022",8145.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","On-grid","2023",8463.00
+"Canada","Solid biofuels","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Solid biofuels","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Solid biofuels","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Solid biofuels","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Solid biofuels","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Solid biofuels","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Solid biofuels","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Solid biofuels","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Solid biofuels","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Solid biofuels","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Solid biofuels","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","All","2015",43.00
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","All","2016",45.50
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","All","2017",46.00
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","All","2018",39.50
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","All","2019",39.50
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","All","2020",39.50
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","All","2021",39.50
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","All","2022",39.50
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","All","2023",38.00
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","All","2024",38.00
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","On-grid","2015",43.00
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","On-grid","2016",45.50
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","On-grid","2017",46.00
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","On-grid","2018",39.50
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","On-grid","2019",39.50
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","On-grid","2020",39.50
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","On-grid","2021",39.50
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","On-grid","2022",39.50
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","On-grid","2023",38.00
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","On-grid","2024",38.00
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Renewable municipal waste","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","All","2015",175.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","All","2016",186.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","All","2017",200.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","All","2018",187.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","All","2019",186.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","All","2020",176.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","All","2021",176.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","All","2022",175.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","All","2023",173.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","All","2024",-
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","On-grid","2015",175.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","On-grid","2016",186.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","On-grid","2017",200.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","On-grid","2018",187.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","On-grid","2019",186.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","On-grid","2020",176.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","On-grid","2021",176.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","On-grid","2022",175.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","On-grid","2023",173.00
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Renewable municipal waste","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","All","2015",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","All","2016",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","All","2017",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","All","2018",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","All","2019",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","All","2020",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","All","2021",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","All","2022",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","All","2023",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","All","2024",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Liquid biofuels","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","All","2015",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","All","2016",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","All","2017",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","All","2018",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","All","2019",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","All","2020",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","All","2021",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","All","2022",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","All","2023",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","All","2024",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","On-grid","2015",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","On-grid","2016",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","On-grid","2017",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","On-grid","2018",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","On-grid","2019",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","On-grid","2020",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","On-grid","2021",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","On-grid","2022",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","On-grid","2023",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Liquid biofuels","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Biogas","Electricity Installed Capacity (MW)","All","2015",193.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","All","2016",179.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","All","2017",218.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","All","2018",212.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","All","2019",251.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","All","2020",262.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","All","2021",367.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","All","2022",365.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","All","2023",352.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","All","2024",352.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","On-grid","2015",193.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","On-grid","2016",179.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","On-grid","2017",218.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","On-grid","2018",212.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","On-grid","2019",251.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","On-grid","2020",262.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","On-grid","2021",367.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","On-grid","2022",365.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","On-grid","2023",352.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","On-grid","2024",352.00
+"Canada","Biogas","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Biogas","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Biogas","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Biogas","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Biogas","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Biogas","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Biogas","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Biogas","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Biogas","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Biogas","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Biogas","Electricity Generation (GWh)","All","2015",1534.00
+"Canada","Biogas","Electricity Generation (GWh)","All","2016",1427.00
+"Canada","Biogas","Electricity Generation (GWh)","All","2017",1451.00
+"Canada","Biogas","Electricity Generation (GWh)","All","2018",1408.00
+"Canada","Biogas","Electricity Generation (GWh)","All","2019",1378.00
+"Canada","Biogas","Electricity Generation (GWh)","All","2020",1387.00
+"Canada","Biogas","Electricity Generation (GWh)","All","2021",1935.00
+"Canada","Biogas","Electricity Generation (GWh)","All","2022",1925.00
+"Canada","Biogas","Electricity Generation (GWh)","All","2023",1924.00
+"Canada","Biogas","Electricity Generation (GWh)","All","2024",-
+"Canada","Biogas","Electricity Generation (GWh)","On-grid","2015",1534.00
+"Canada","Biogas","Electricity Generation (GWh)","On-grid","2016",1427.00
+"Canada","Biogas","Electricity Generation (GWh)","On-grid","2017",1451.00
+"Canada","Biogas","Electricity Generation (GWh)","On-grid","2018",1408.00
+"Canada","Biogas","Electricity Generation (GWh)","On-grid","2019",1378.00
+"Canada","Biogas","Electricity Generation (GWh)","On-grid","2020",1387.00
+"Canada","Biogas","Electricity Generation (GWh)","On-grid","2021",1935.00
+"Canada","Biogas","Electricity Generation (GWh)","On-grid","2022",1925.00
+"Canada","Biogas","Electricity Generation (GWh)","On-grid","2023",1924.00
+"Canada","Biogas","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Biogas","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Biogas","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Biogas","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Biogas","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Biogas","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Biogas","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Biogas","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Biogas","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Biogas","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Biogas","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","All","2015",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","All","2016",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","All","2017",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","All","2018",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","All","2019",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","All","2020",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","All","2021",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","All","2022",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","All","2023",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","All","2024",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Geothermal energy","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","All","2015",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","All","2016",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","All","2017",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","All","2018",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","All","2019",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","All","2020",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","All","2021",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","All","2022",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","All","2023",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","All","2024",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","On-grid","2015",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","On-grid","2016",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","On-grid","2022",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","On-grid","2023",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Geothermal energy","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","All","2015",48528.00
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","All","2016",49158.50
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","All","2017",48783.00
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","All","2018",48332.50
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","All","2019",48381.50
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","All","2020",49260.50
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","All","2021",46281.50
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","All","2022",44923.50
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","All","2023",46038.00
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","All","2024",45272.00
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","On-grid","2015",48528.00
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","On-grid","2016",49158.50
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","On-grid","2017",48783.00
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","On-grid","2018",48332.50
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","On-grid","2019",48381.50
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","On-grid","2020",49260.50
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","On-grid","2021",46281.50
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","On-grid","2022",44923.50
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","On-grid","2023",46038.00
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","On-grid","2024",45272.00
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Total non-renewable","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Total non-renewable","Electricity Generation (GWh)","All","2015",236593.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","All","2016",233621.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","All","2017",221762.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","All","2018",224437.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","All","2019",222795.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","All","2020",214929.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","All","2021",211249.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","All","2022",205436.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","All","2023",214166.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","All","2024",-
+"Canada","Total non-renewable","Electricity Generation (GWh)","On-grid","2015",236593.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","On-grid","2016",233621.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","On-grid","2017",221762.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","On-grid","2018",224437.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","On-grid","2019",222795.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","On-grid","2020",214929.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","On-grid","2021",211249.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","On-grid","2022",205436.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","On-grid","2023",214166.00
+"Canada","Total non-renewable","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Total non-renewable","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Total non-renewable","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Total non-renewable","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Total non-renewable","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Total non-renewable","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Total non-renewable","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Total non-renewable","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Total non-renewable","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Total non-renewable","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Total non-renewable","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","All","2015",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","All","2016",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","All","2017",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","All","2018",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","All","2019",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","All","2020",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","All","2021",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","All","2022",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","All","2023",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","All","2024",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","On-grid","2015",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","On-grid","2016",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","On-grid","2017",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","On-grid","2018",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","On-grid","2019",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","On-grid","2020",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","On-grid","2021",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","On-grid","2022",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","On-grid","2023",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","On-grid","2024",174.00
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Pumped storage","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Pumped storage","Electricity Generation (GWh)","All","2015",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","All","2016",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","All","2017",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","All","2018",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","All","2019",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","All","2020",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","All","2021",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","All","2022",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","All","2023",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","All","2024",-
+"Canada","Pumped storage","Electricity Generation (GWh)","On-grid","2015",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","On-grid","2016",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","On-grid","2017",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","On-grid","2018",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","On-grid","2019",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","On-grid","2020",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","On-grid","2021",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","On-grid","2022",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","On-grid","2023",111.00
+"Canada","Pumped storage","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Pumped storage","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Pumped storage","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Pumped storage","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Pumped storage","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Pumped storage","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Pumped storage","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Pumped storage","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Pumped storage","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Pumped storage","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Pumped storage","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","All","2015",9791.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","All","2016",9641.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","All","2017",9636.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","All","2018",9689.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","All","2019",9689.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","All","2020",9247.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","All","2021",7996.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","All","2022",5748.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","All","2023",4594.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","All","2024",3714.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","On-grid","2015",9791.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","On-grid","2016",9641.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","On-grid","2017",9636.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","On-grid","2018",9689.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","On-grid","2019",9689.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","On-grid","2020",9247.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","On-grid","2021",7996.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","On-grid","2022",5748.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","On-grid","2023",4594.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","On-grid","2024",3714.00
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Coal and peat","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Coal and peat","Electricity Generation (GWh)","All","2015",62055.00
+"Canada","Coal and peat","Electricity Generation (GWh)","All","2016",62197.00
+"Canada","Coal and peat","Electricity Generation (GWh)","All","2017",60104.00
+"Canada","Coal and peat","Electricity Generation (GWh)","All","2018",50536.00
+"Canada","Coal and peat","Electricity Generation (GWh)","All","2019",47873.00
+"Canada","Coal and peat","Electricity Generation (GWh)","All","2020",38665.00
+"Canada","Coal and peat","Electricity Generation (GWh)","All","2021",34448.00
+"Canada","Coal and peat","Electricity Generation (GWh)","All","2022",26251.00
+"Canada","Coal and peat","Electricity Generation (GWh)","All","2023",23548.00
+"Canada","Coal and peat","Electricity Generation (GWh)","All","2024",-
+"Canada","Coal and peat","Electricity Generation (GWh)","On-grid","2015",62055.00
+"Canada","Coal and peat","Electricity Generation (GWh)","On-grid","2016",62197.00
+"Canada","Coal and peat","Electricity Generation (GWh)","On-grid","2017",60104.00
+"Canada","Coal and peat","Electricity Generation (GWh)","On-grid","2018",50536.00
+"Canada","Coal and peat","Electricity Generation (GWh)","On-grid","2019",47873.00
+"Canada","Coal and peat","Electricity Generation (GWh)","On-grid","2020",38665.00
+"Canada","Coal and peat","Electricity Generation (GWh)","On-grid","2021",34448.00
+"Canada","Coal and peat","Electricity Generation (GWh)","On-grid","2022",26251.00
+"Canada","Coal and peat","Electricity Generation (GWh)","On-grid","2023",23548.00
+"Canada","Coal and peat","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Coal and peat","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Coal and peat","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Coal and peat","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Coal and peat","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Coal and peat","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Coal and peat","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Coal and peat","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Coal and peat","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Coal and peat","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Coal and peat","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Oil","Electricity Installed Capacity (MW)","All","2015",6011.00
+"Canada","Oil","Electricity Installed Capacity (MW)","All","2016",5978.00
+"Canada","Oil","Electricity Installed Capacity (MW)","All","2017",6018.00
+"Canada","Oil","Electricity Installed Capacity (MW)","All","2018",6002.00
+"Canada","Oil","Electricity Installed Capacity (MW)","All","2019",6019.00
+"Canada","Oil","Electricity Installed Capacity (MW)","All","2020",6019.00
+"Canada","Oil","Electricity Installed Capacity (MW)","All","2021",6019.00
+"Canada","Oil","Electricity Installed Capacity (MW)","All","2022",6019.00
+"Canada","Oil","Electricity Installed Capacity (MW)","All","2023",6019.00
+"Canada","Oil","Electricity Installed Capacity (MW)","All","2024",6019.00
+"Canada","Oil","Electricity Installed Capacity (MW)","On-grid","2015",6011.00
+"Canada","Oil","Electricity Installed Capacity (MW)","On-grid","2016",5978.00
+"Canada","Oil","Electricity Installed Capacity (MW)","On-grid","2017",6018.00
+"Canada","Oil","Electricity Installed Capacity (MW)","On-grid","2018",6002.00
+"Canada","Oil","Electricity Installed Capacity (MW)","On-grid","2019",6019.00
+"Canada","Oil","Electricity Installed Capacity (MW)","On-grid","2020",6019.00
+"Canada","Oil","Electricity Installed Capacity (MW)","On-grid","2021",6019.00
+"Canada","Oil","Electricity Installed Capacity (MW)","On-grid","2022",6019.00
+"Canada","Oil","Electricity Installed Capacity (MW)","On-grid","2023",6019.00
+"Canada","Oil","Electricity Installed Capacity (MW)","On-grid","2024",6019.00
+"Canada","Oil","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Oil","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Oil","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Oil","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Oil","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Oil","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Oil","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Oil","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Oil","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Oil","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Oil","Electricity Generation (GWh)","All","2015",7718.00
+"Canada","Oil","Electricity Generation (GWh)","All","2016",7783.00
+"Canada","Oil","Electricity Generation (GWh)","All","2017",5672.00
+"Canada","Oil","Electricity Generation (GWh)","All","2018",5821.00
+"Canada","Oil","Electricity Generation (GWh)","All","2019",5081.00
+"Canada","Oil","Electricity Generation (GWh)","All","2020",4536.00
+"Canada","Oil","Electricity Generation (GWh)","All","2021",4246.00
+"Canada","Oil","Electricity Generation (GWh)","All","2022",5545.00
+"Canada","Oil","Electricity Generation (GWh)","All","2023",4684.00
+"Canada","Oil","Electricity Generation (GWh)","All","2024",-
+"Canada","Oil","Electricity Generation (GWh)","On-grid","2015",7718.00
+"Canada","Oil","Electricity Generation (GWh)","On-grid","2016",7783.00
+"Canada","Oil","Electricity Generation (GWh)","On-grid","2017",5672.00
+"Canada","Oil","Electricity Generation (GWh)","On-grid","2018",5821.00
+"Canada","Oil","Electricity Generation (GWh)","On-grid","2019",5081.00
+"Canada","Oil","Electricity Generation (GWh)","On-grid","2020",4536.00
+"Canada","Oil","Electricity Generation (GWh)","On-grid","2021",4246.00
+"Canada","Oil","Electricity Generation (GWh)","On-grid","2022",5545.00
+"Canada","Oil","Electricity Generation (GWh)","On-grid","2023",4684.00
+"Canada","Oil","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Oil","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Oil","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Oil","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Oil","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Oil","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Oil","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Oil","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Oil","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Oil","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Oil","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Natural gas","Electricity Installed Capacity (MW)","All","2015",16873.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","All","2016",17553.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","All","2017",17241.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","All","2018",17472.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","All","2019",17634.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","All","2020",19802.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","All","2021",17592.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","All","2022",18500.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","All","2023",21170.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","All","2024",21284.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","On-grid","2015",16873.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","On-grid","2016",17553.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","On-grid","2017",17241.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","On-grid","2018",17472.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","On-grid","2019",17634.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","On-grid","2020",19802.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","On-grid","2021",17592.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","On-grid","2022",18500.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","On-grid","2023",21170.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","On-grid","2024",21284.00
+"Canada","Natural gas","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Natural gas","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Natural gas","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Natural gas","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Natural gas","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Natural gas","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Natural gas","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Natural gas","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Natural gas","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Natural gas","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Natural gas","Electricity Generation (GWh)","All","2015",64639.00
+"Canada","Natural gas","Electricity Generation (GWh)","All","2016",61795.00
+"Canada","Natural gas","Electricity Generation (GWh)","All","2017",54248.00
+"Canada","Natural gas","Electricity Generation (GWh)","All","2018",66895.00
+"Canada","Natural gas","Electricity Generation (GWh)","All","2019",68235.00
+"Canada","Natural gas","Electricity Generation (GWh)","All","2020",72972.00
+"Canada","Natural gas","Electricity Generation (GWh)","All","2021",79314.00
+"Canada","Natural gas","Electricity Generation (GWh)","All","2022",85856.00
+"Canada","Natural gas","Electricity Generation (GWh)","All","2023",96299.00
+"Canada","Natural gas","Electricity Generation (GWh)","All","2024",-
+"Canada","Natural gas","Electricity Generation (GWh)","On-grid","2015",64639.00
+"Canada","Natural gas","Electricity Generation (GWh)","On-grid","2016",61795.00
+"Canada","Natural gas","Electricity Generation (GWh)","On-grid","2017",54248.00
+"Canada","Natural gas","Electricity Generation (GWh)","On-grid","2018",66895.00
+"Canada","Natural gas","Electricity Generation (GWh)","On-grid","2019",68235.00
+"Canada","Natural gas","Electricity Generation (GWh)","On-grid","2020",72972.00
+"Canada","Natural gas","Electricity Generation (GWh)","On-grid","2021",79314.00
+"Canada","Natural gas","Electricity Generation (GWh)","On-grid","2022",85856.00
+"Canada","Natural gas","Electricity Generation (GWh)","On-grid","2023",96299.00
+"Canada","Natural gas","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Natural gas","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Natural gas","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Natural gas","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Natural gas","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Natural gas","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Natural gas","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Natural gas","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Natural gas","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Natural gas","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Natural gas","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","All","2015",1603.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","All","2016",1734.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","All","2017",1635.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","All","2018",1618.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","All","2019",1488.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","All","2020",1466.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","All","2021",1376.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","All","2022",1358.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","All","2023",1374.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","All","2024",1374.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","On-grid","2015",1603.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","On-grid","2016",1734.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","On-grid","2017",1635.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","On-grid","2018",1618.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","On-grid","2019",1488.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","On-grid","2020",1466.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","On-grid","2021",1376.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","On-grid","2022",1358.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","On-grid","2023",1374.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","On-grid","2024",1374.00
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Fossil fuels n.e.s.","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","All","2015",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","All","2016",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","All","2017",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","All","2018",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","All","2019",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","All","2020",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","All","2021",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","All","2022",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","All","2023",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","All","2024",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","On-grid","2015",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","On-grid","2016",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","On-grid","2017",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","On-grid","2018",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","On-grid","2019",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","On-grid","2020",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","On-grid","2021",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","On-grid","2022",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","On-grid","2023",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Fossil fuels n.e.s.","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Nuclear","Electricity Installed Capacity (MW)","All","2015",14033.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","All","2016",14033.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","All","2017",14033.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","All","2018",13338.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","All","2019",13338.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","All","2020",12513.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","All","2021",13085.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","All","2022",13085.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","All","2023",12669.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","All","2024",12669.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","On-grid","2015",14033.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","On-grid","2016",14033.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","On-grid","2017",14033.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","On-grid","2018",13338.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","On-grid","2019",13338.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","On-grid","2020",12513.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","On-grid","2021",13085.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","On-grid","2022",13085.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","On-grid","2023",12669.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","On-grid","2024",12669.00
+"Canada","Nuclear","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Nuclear","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Nuclear","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Nuclear","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Nuclear","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Nuclear","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Nuclear","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Nuclear","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Nuclear","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Nuclear","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Nuclear","Electricity Generation (GWh)","All","2015",101809.00
+"Canada","Nuclear","Electricity Generation (GWh)","All","2016",101429.00
+"Canada","Nuclear","Electricity Generation (GWh)","All","2017",101299.00
+"Canada","Nuclear","Electricity Generation (GWh)","All","2018",100731.00
+"Canada","Nuclear","Electricity Generation (GWh)","All","2019",101197.00
+"Canada","Nuclear","Electricity Generation (GWh)","All","2020",98195.00
+"Canada","Nuclear","Electricity Generation (GWh)","All","2021",92629.00
+"Canada","Nuclear","Electricity Generation (GWh)","All","2022",87239.00
+"Canada","Nuclear","Electricity Generation (GWh)","All","2023",89047.00
+"Canada","Nuclear","Electricity Generation (GWh)","All","2024",-
+"Canada","Nuclear","Electricity Generation (GWh)","On-grid","2015",101809.00
+"Canada","Nuclear","Electricity Generation (GWh)","On-grid","2016",101429.00
+"Canada","Nuclear","Electricity Generation (GWh)","On-grid","2017",101299.00
+"Canada","Nuclear","Electricity Generation (GWh)","On-grid","2018",100731.00
+"Canada","Nuclear","Electricity Generation (GWh)","On-grid","2019",101197.00
+"Canada","Nuclear","Electricity Generation (GWh)","On-grid","2020",98195.00
+"Canada","Nuclear","Electricity Generation (GWh)","On-grid","2021",92629.00
+"Canada","Nuclear","Electricity Generation (GWh)","On-grid","2022",87239.00
+"Canada","Nuclear","Electricity Generation (GWh)","On-grid","2023",89047.00
+"Canada","Nuclear","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Nuclear","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Nuclear","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Nuclear","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Nuclear","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Nuclear","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Nuclear","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Nuclear","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Nuclear","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Nuclear","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Nuclear","Electricity Generation (GWh)","Off-grid","2024",-
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","All","2015",43.00
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","All","2016",45.50
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","All","2017",46.00
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","All","2018",39.50
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","All","2019",39.50
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","All","2020",39.50
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","All","2021",39.50
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","All","2022",39.50
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","All","2023",38.00
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","All","2024",38.00
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","On-grid","2015",43.00
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","On-grid","2016",45.50
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","On-grid","2017",46.00
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","On-grid","2018",39.50
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","On-grid","2019",39.50
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","On-grid","2020",39.50
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","On-grid","2021",39.50
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","On-grid","2022",39.50
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","On-grid","2023",38.00
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","On-grid","2024",38.00
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","Off-grid","2015",-
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","Off-grid","2016",-
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","Off-grid","2017",-
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","Off-grid","2018",-
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","Off-grid","2019",-
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","Off-grid","2020",-
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","Off-grid","2021",-
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","Off-grid","2022",-
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","Off-grid","2023",-
+"Canada","Other non-renewable energy","Electricity Installed Capacity (MW)","Off-grid","2024",-
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","All","2015",261.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","All","2016",306.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","All","2017",328.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","All","2018",343.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","All","2019",298.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","All","2020",450.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","All","2021",501.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","All","2022",434.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","All","2023",477.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","All","2024",-
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","On-grid","2015",261.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","On-grid","2016",306.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","On-grid","2017",328.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","On-grid","2018",343.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","On-grid","2019",298.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","On-grid","2020",450.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","On-grid","2021",501.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","On-grid","2022",434.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","On-grid","2023",477.00
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","On-grid","2024",-
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","Off-grid","2015",-
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","Off-grid","2016",-
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","Off-grid","2017",-
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","Off-grid","2018",-
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","Off-grid","2019",-
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","Off-grid","2020",-
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","Off-grid","2021",-
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","Off-grid","2022",-
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","Off-grid","2023",-
+"Canada","Other non-renewable energy","Electricity Generation (GWh)","Off-grid","2024",-
